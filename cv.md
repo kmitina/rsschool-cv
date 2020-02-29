@@ -27,7 +27,7 @@ compare(16.0, 15.0)
 ```
 
 #### Education: 
-- _CIDR courses in Minsk "IOS + Swift", 2020_
+- _CIDR courses in Minsk "IOS + Swift", 2020 year_
 
 #### English: 
 - _Upper-Intermediate. Finished Streamline courses.
