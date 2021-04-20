@@ -6,7 +6,7 @@ ___My main goal is learning IOS as soon as possible!___
 * SWIFT
 * SWIFTUI
 * UIKit
-* HTML, CSS
+* Objective-C
 * Git
 
 #### Experience: 
