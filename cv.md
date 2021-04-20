@@ -1,5 +1,5 @@
 # Kris Mitina
-E-mail: kristmitina@gmail.com  
+E-mail: krismitina@icloud.com  
 ___My main goal is learning IOS as soon as possible!___
 ***
 #### My skills: 
