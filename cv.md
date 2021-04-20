@@ -31,5 +31,5 @@ compare(16.0, 15.0)
 - _CIDR courses in Minsk "IOS + Swift", 2020 year_
 
 #### English: 
-- Upper-Intermediate. Finished Streamline courses.
+- Upper-Intermediate. Finished Streamline courses. Now I'm studying in SkyEng school.
 
