@@ -4,6 +4,7 @@ ___My main goal is learning IOS as soon as possible!___
 ***
 #### My skills: 
 * SWIFT
+* SWIFTUI
 * UIKit
 * HTML, CSS
 * Git
@@ -30,5 +31,5 @@ compare(16.0, 15.0)
 - _CIDR courses in Minsk "IOS + Swift", 2020 year_
 
 #### English: 
-- _Upper-Intermediate. Finished Streamline courses.
+- Upper-Intermediate. Finished Streamline courses.
 
